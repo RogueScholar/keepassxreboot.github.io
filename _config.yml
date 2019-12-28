@@ -1,13 +1,19 @@
 # Site settings
 title: "KeePassXC Password Manager"
-baseurl: ""
 url: "https://keepassxc.org"
+include: .htaccess
+encoding: utf-8
 
 github: keepassx-reboot
 
 # Build settings
+watch: true
 markdown: kramdown
 permalink: /:title
+
+# Serve command options
+baseurl: ""
+livereload: true
 
 # Latest downloads
 collections:
