@@ -1,5 +1,6 @@
 # keepassxc_site
-Website files for KeePassXC
+
+> Website files for KeePassXC
 
 This website use **Jekyll** and **GithubPages**.
 
@@ -12,4 +13,4 @@ This website use **Jekyll** and **GithubPages**.
 
 ### Contributing
 
-For contribution guidelines refer to the [CONTRIBUTING.md](https://github.com/keepassxreboot/keepassxc/blob/develop/.github/CONTRIBUTING.md) from the main repository.
+Our contribution guidelines for the site can be found [here](.github/CONTRIBUTING.md).
